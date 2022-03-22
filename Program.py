@@ -76,7 +76,7 @@ args = vars(ap.parse_args())
 
 EYE_AR_THRESH = 0.26
 EYE_AR_CONSEC_FRAMES = 10
-YAWN_THRESH = 30
+YAWN_THRESH = 35
 alarm_status = False
 alarm_status2 = False
 saying = False
